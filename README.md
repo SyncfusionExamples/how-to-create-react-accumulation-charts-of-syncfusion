@@ -1,6 +1,6 @@
 # How to Create React Accumulation Charts of Syncfusion
 
-A quick-start project that allows you to create a accumulation charts of Syncfusion in the react application. This project also contains a code snippet to add a title, legend, data label, and tooltip to the pie chart.
+A quick-start project that allows you to create an accumulation charts of Syncfusion in the react application. This project also contains a code snippet to add a title, legend, data label, and tooltip to the pie chart.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/accumulation-chart/getting-started/
 
