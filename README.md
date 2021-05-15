@@ -4,7 +4,7 @@ A quick-start project that allows you to create an accumulation charts of Syncfu
 
 Documentation: https://ej2.syncfusion.com/react/documentation/accumulation-chart/getting-started/
 
-Online examples: https://ej2.syncfusion.com/angular/demos/#/material/chart/default-pie
+Online examples: https://ej2.syncfusion.com/react/demos/#/material/chart/default-pie
 
 ## Project prerequisites
 
